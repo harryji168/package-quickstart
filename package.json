@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harryji168/package-quickstart/issues"
   },
+  "publishConfig": {
+    "@harryji168": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/harryji168/package-quickstart#readme"
 }
